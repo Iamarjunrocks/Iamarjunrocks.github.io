@@ -6,8 +6,8 @@
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
-<h1 align="center">Ajun Reddy</h1>
-<h3 align="center">My name is Arjun.BY profession I'm an Assistant Doctor in Eye Care hospital. </h3>
+<h1 align="center">Arjun Reddy</h1>
+<h3 align="center">My name is Arjun BY profession I'm an Assistant Doctor in Eye Care hospital. </h3>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="Center">Contact Details:</h2>
 <p align="center">
